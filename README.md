@@ -1,0 +1,2 @@
+# tshwane-safety-app
+A mobile app that provides citizens in the City of Tshwane the ability to report and provide anonymous tip-offs of incidents of crime, corruption, traffic and by-law infringements to Tshwane Metro Police Department (TMPD) right in the palm of your hand. Such data is instantaneously received by TMPD for appropriate action to be taken. The app also provides other services aimed at improving community safety.
